@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Led Magic</string>
+    <string name="icon">Descripcion</string>
+    <string name="led_orange">Orange Led</string>
+    <string name="led_lightblue">Blue Led </string>
+    <string name="led_red">Red Led</string>
+	<string name="led_yellow">Yellow Led</string>
+	<string name="led_purple">Purple Led</string>
+	<string name="led_gray">Gray Led</string>
+	<string name="led_black">Black Led</string>
+    <string name="led_heart">Heart Led</string>
+	
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">17dp</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+	</style>
+
+</resources>
+
+
